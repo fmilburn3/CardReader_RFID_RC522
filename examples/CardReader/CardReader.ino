@@ -9,6 +9,8 @@ Based on code and ideas from Eelco Rouw (www.43oh.com), Grant Gibson
 Craig Thompson/Aaron Norris at Addicore.
 
 Minor modifications to above by Frank Milburn 10 June 2015
+Released into the public domain
+
 Tested on MSP-EXP430G2 LaunchPad
           MSP-EXP430F5529 LaunchPad
           MSP-EXP430FR5969 LaunchPad

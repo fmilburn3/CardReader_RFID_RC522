@@ -8,3 +8,4 @@ Tested with Energia V16 on the following LaunchPads:
           MSP-EXP430FR5969 LaunchPad
           CC3200 LaunchPad
 
+See wiki for schematic

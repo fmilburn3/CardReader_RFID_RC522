@@ -13,3 +13,5 @@ Tested with Energia V17 on the following LaunchPads:
           MSP-EXPF5529 LaunchPad
 
 See wiki for schematic
+
+Here is a link to a boosterpack I made with this card reader for the Texas Instruments CC3200: http://forum.43oh.com/topic/9133-rfid-booster-pack-for-cc3200/

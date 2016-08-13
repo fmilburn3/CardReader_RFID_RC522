@@ -11,6 +11,7 @@ Tested with Energia V16 on the following LaunchPads:
 Tested with Energia V17 on the following LaunchPads:
 
           MSP-EXPF5529 LaunchPad
+          MSP-EXP432P401R LaunchPad - does not work
 
 See wiki for schematic
 

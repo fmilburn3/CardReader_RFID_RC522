@@ -13,6 +13,6 @@ Tested with Energia V17 on the following LaunchPads:
           MSP-EXPF5529 LaunchPad
           MSP-EXP432P401R LaunchPad - does not work
 
-See wiki for schematic
+See wiki for schematic: https://github.com/fmilburn3/CardReader_RFID_RC522/wiki
 
 Here is a link to a boosterpack I made with this card reader for the Texas Instruments CC3200: http://forum.43oh.com/topic/9133-rfid-booster-pack-for-cc3200/
